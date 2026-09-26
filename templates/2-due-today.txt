@@ -1,0 +1,8 @@
+Subject: Invoice #[number] is due today
+
+Hi [customer name],
+
+Invoice #[number] for [amount] is due today. If you've already sent payment, thank you, and please
+disregard this note. Otherwise, here's the invoice again: [link].
+
+[your name]

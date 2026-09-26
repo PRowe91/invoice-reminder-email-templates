@@ -1,0 +1,10 @@
+Subject: Invoice #[number], now overdue
+
+Hi [customer name],
+
+Invoice #[number] for [amount] was due on [date] and I don't see a payment yet. These things slip
+through, so just flagging it in case it got missed. Here's the invoice: [link].
+
+Let me know if there's a problem with it, or if you need more time.
+
+[your name]

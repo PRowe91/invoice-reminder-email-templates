@@ -1,0 +1,8 @@
+Subject: Payment needed: invoice #[number], [days] days overdue
+
+Hi [customer name],
+
+Invoice #[number] for [amount] is now [days] days past its due date of [date]. Could you let me know
+when payment will go out? Happy to answer any questions or work out a payment plan if that would help.
+
+[your name]

@@ -1,0 +1,9 @@
+Subject: Invoice #[number] due [date]
+
+Hi [customer name],
+
+Just a quick note that invoice #[number] for [amount] is due on [date]. Let me know if you have any
+questions about it.
+
+Thanks,
+[your name]

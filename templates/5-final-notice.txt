@@ -1,0 +1,11 @@
+Subject: Final notice: invoice #[number], [days] days overdue
+
+Hi [customer name],
+
+Invoice #[number] for [amount] is now [days] days overdue, and I haven't heard back on my last two
+notes. I need to resolve this by [date, e.g. one week out], or I'll need to [pause further work / refer
+this to collections / another consequence you're prepared to follow through on].
+
+I'd rather sort this out directly, so please reach out if there's an issue I don't know about.
+
+[your name]
